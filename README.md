@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0268-missing-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -28,11 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0724-find-pivot-index) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0268-missing-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
@@ -62,8 +66,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0053-maximum-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
