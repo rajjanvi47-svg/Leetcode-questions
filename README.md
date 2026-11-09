@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0268-missing-number) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
