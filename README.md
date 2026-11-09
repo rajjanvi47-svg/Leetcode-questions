@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Math
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0724-find-pivot-index](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
