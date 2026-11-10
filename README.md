@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/1051-height-checker) |
 | [1480-running-sum-of-1d-array](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1672-richest-customer-wealth](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/1672-richest-customer-wealth) |
 ## Binary Search
 |  |
 | ------- |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/1051-height-checker) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
