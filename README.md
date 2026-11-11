@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0724-find-pivot-index](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0724-find-pivot-index) |
+| [0977-squares-of-a-sorted-array](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/1051-height-checker) |
 | [1480-running-sum-of-1d-array](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0414-third-maximum-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/1051-height-checker) |
 ## Divide and Conquer
 |  |
