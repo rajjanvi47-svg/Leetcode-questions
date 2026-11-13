@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0414-third-maximum-number) |
