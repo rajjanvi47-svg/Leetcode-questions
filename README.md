@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0014-longest-common-prefix) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
@@ -148,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
