@@ -1,0 +1,7 @@
+const sleep = (millis) => {
+    return new Promise((resolve) => {
+        setTimeout(() => {
+            resolve("hello");
+        }, millis);
+    });
+};
