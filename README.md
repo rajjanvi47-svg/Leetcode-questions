@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3934-smallest-unique-subarray](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/3934-smallest-unique-subarray) |
 ## Math
 |  |
 | ------- |
@@ -63,12 +64,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/1672-richest-customer-wealth) |
+| [3934-smallest-unique-subarray](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/3934-smallest-unique-subarray) |
 ## Binary Search
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3934-smallest-unique-subarray](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/3934-smallest-unique-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -173,4 +176,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3360-stone-removal-game](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/3360-stone-removal-game) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/rajjanvi47-svg/Leetcode-questions/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
